@@ -43,7 +43,8 @@ The model predicts → **🏆 Which team wins!**
 
 ## 🌐 Live Demo
 
-> Open `dashboard.html` in any browser for the interactive prediction UI!
+> Open `index.html` in any browser for the interactive prediction UI!
+> https://pallavi-0526.github.io/IPL-Match-Winner-Prediction/
 
 Features of the dashboard:
 - ✅ Select any two IPL teams
